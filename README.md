@@ -2,6 +2,8 @@
 
 A console application for downloading Xbox 360 game covers and preparing them for the Aurora Dashboard — **without FTP, without Xbox internet, only PC + USB Drive**.
 
+<img width="1115" height="628" alt="image" src="https://github.com/user-attachments/assets/8b6be0c0-4d95-454f-b4f9-baf17f1603ff" />
+
 ## How it works
 
 The application uses the source code from [AuroraAssetEditor](https://github.com/XboxUnity/AuroraAssetEditor), but instead of FTP-uploading to the Xbox, it saves `.asset` files **locally to a USB drive**.
