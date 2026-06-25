@@ -1,7 +1,7 @@
 // Ported from AuroraAssetEditor by Swizzy
 // Aurora .asset binary format handler
 
-namespace AuroraOfflineAssets.Classes
+namespace AuroraAssetsUsbDownloader.Classes
 {
     using System;
     using System.Collections.Generic;

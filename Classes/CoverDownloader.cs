@@ -1,7 +1,7 @@
 // Adapted from AuroraAssetEditor - InternetArchiveAssetDownloader.cs
 // Downloads game covers from Internet Archive (xboxunity-covers-fulldump)
 
-namespace AuroraOfflineAssets.Classes
+namespace AuroraAssetsUsbDownloader.Classes
 {
     using System;
     using System.Collections.Generic;

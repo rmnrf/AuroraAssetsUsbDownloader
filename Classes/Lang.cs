@@ -1,6 +1,6 @@
-using AuroraOfflineAssets.Locales;
+using AuroraAssetsUsbDownloader.Locales;
 
-namespace AuroraOfflineAssets.Classes
+namespace AuroraAssetsUsbDownloader.Classes
 {
     public static class Lang
     {

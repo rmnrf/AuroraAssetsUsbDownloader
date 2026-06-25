@@ -1,7 +1,7 @@
 using System;
 using System.Runtime.InteropServices;
 
-namespace AuroraOfflineAssets.Classes
+namespace AuroraAssetsUsbDownloader.Classes
 {
     /// <summary>
     /// Wrapper class for interfacing with the AuroraAsset.dll

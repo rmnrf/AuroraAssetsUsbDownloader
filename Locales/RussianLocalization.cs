@@ -1,4 +1,4 @@
-namespace AuroraOfflineAssets.Locales
+namespace AuroraAssetsUsbDownloader.Locales
 {
     public class RussianLocalization : ILocalization
     {

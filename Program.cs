@@ -14,9 +14,9 @@ using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
-using AuroraOfflineAssets.Classes;
+using AuroraAssetsUsbDownloader.Classes;
 
-namespace AuroraOfflineAssets
+namespace AuroraAssetsUsbDownloader
 {
     class Program
     {

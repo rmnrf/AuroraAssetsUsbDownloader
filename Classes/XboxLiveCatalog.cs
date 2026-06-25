@@ -7,7 +7,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 
-namespace AuroraOfflineAssets.Classes
+namespace AuroraAssetsUsbDownloader.Classes
 {
     internal class XboxLiveCatalog
     {

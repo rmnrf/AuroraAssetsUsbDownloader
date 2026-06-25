@@ -38,10 +38,10 @@ Xbox HDD: Aurora\Data\DataBases\Content.db → Флешка
 
 ```bash
 # Из командной строки просто передайте букву флешки (например E):
-AuroraOfflineAssets.exe E
+AuroraAssetsUsbDownloader.exe E
 
 # Или запустите .exe без параметров — он спросит букву диска интерактивно
-AuroraOfflineAssets.exe
+AuroraAssetsUsbDownloader.exe
 ```
 
 При запуске программа предложит **выбрать язык (English / Русский)**, а затем появится **интерактивное меню**, где с помощью стрелок и пробела можно выбрать, какие именно типы ресурсов скачивать (Boxart, Background, Icon/Banner, Screenshots).

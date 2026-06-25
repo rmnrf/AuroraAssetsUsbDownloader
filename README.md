@@ -38,10 +38,10 @@ Xbox HDD: Aurora\Data\DataBases\Content.db → USB Flash Drive
 
 ```bash
 # From the command line, simply pass the USB drive letter (e.g., E):
-AuroraOfflineAssets.exe E
+AuroraAssetsUsbDownloader.exe E
 
 # Or run the .exe without parameters — it will ask for the drive letter interactively
-AuroraOfflineAssets.exe
+AuroraAssetsUsbDownloader.exe
 ```
 
 Upon launching, the program will prompt you to **select a language (English / Русский)**. After that, an **interactive menu** will appear where you can use the arrow keys and spacebar to select which specific assets to download (Boxart, Background, Icon/Banner, Screenshots).

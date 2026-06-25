@@ -1,7 +1,7 @@
 // Adapted from AuroraAssetEditor - AuroraDbManager.cs by Swizzy
 // Reads Aurora's Content.db (SQLite) to get the list of installed games
 
-namespace AuroraOfflineAssets.Classes
+namespace AuroraAssetsUsbDownloader.Classes
 {
     using System;
     using System.Collections.Generic;
