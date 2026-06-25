@@ -2,6 +2,8 @@
 
 Консольное приложение для скачивания обложек игр Xbox 360 и подготовки их для Aurora Dashboard — **без FTP, без интернета на Xbox, только ПК + флешка**.
 
+<img width="1115" height="628" alt="image" src="https://github.com/user-attachments/assets/366be486-3046-42f7-9a08-e69157d8dd21" />
+
 ## Как работает
 
 Приложение использует исходный код [AuroraAssetEditor](https://github.com/XboxUnity/AuroraAssetEditor), но вместо FTP-загрузки на Xbox записывает `.asset` файлы **локально на флешку**.
